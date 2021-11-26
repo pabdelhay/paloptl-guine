@@ -1,0 +1,11 @@
+__pycache__
+*.py[cod]
+*.ipynb
+.idea
+.env
+.venv
+.devops
+.media
+.dumps
+db.sqlite3
+draft.py
